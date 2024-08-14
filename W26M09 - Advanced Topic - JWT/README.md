@@ -1,5 +1,5 @@
 # M09 W26 | Advanced Topic - JWT
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-19-2024/tree/main/W26M09%20-%20Advanced%20Topic%20-%20JWT) | [Vimeo Video Recording](https://vimeo.com/998499731/fdd67abf7d?share=copy)
 
 ## Topics to cover 
 

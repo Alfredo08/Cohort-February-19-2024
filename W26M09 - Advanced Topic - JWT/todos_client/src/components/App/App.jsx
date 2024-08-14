@@ -8,6 +8,10 @@ const App = () => {
   return (
     <div className="container">
       <h1> Welcome to the todos App </h1>
+      <Routes>
+        <Route path="/login" element={<Login />}/>
+        <Route path="/dashboard" element={<Dashboard />} />
+      </Routes>
     </div>
   );
 }
